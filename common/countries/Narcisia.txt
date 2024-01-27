@@ -1,0 +1,19 @@
+chnology_group = western 
+color = { 197 180 224 }
+
+monarch_names = {
+           "Karl" = 20
+           "Rayko" = 15
+           "Heinrich" = 10
+           "Roland" = 5
+           "Fritz" = 10
+           "Neele" = -20
+           "Tabea" = -15
+           "Frida" = -5
+           "Helmine" = -3
+}
+
+leader_names = { 
+                "Rocco" "Adelhard" "Hunfried" "Sieghard"
+                "Ludwig" "Theobald" "Eckhard" "Ludolf" "Dietmar"
+}              

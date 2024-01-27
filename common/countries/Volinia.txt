@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 250 71 27}
+
+monarch_names = {
+            "Brunon" #3 = 30
+             "Tymoteusz" #2 = 10
+             "Konstantyn" = 20
+             "Ferdynand" = 5
+              "Henryka" = -20
+               "Lilia" = -30
+}
+
+leader_names = {
+               "Leokadiusz Zyskowski" "Serwacy Kuczmarski" "Daniel Ulma" "Jakub Stańczak" 
+}              

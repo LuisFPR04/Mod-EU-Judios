@@ -1,0 +1,25 @@
+#2966 - Glogau 
+
+owner = MRC
+controller = MRC
+culture = schlesian
+religion = zoroastrian 
+capital = "Glogau"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 4
+is_city = yes
+base_manpower = 2
+add_core = MRC
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

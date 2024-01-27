@@ -1,0 +1,13 @@
+technology_group = western 
+color = { 83 111 105 }
+
+monarch_names = {
+            "Francis" #3 = 20
+            "Arcadi" #2 = 10
+            "Elias" = 10
+              "Sara" = -20
+}
+
+leader_names = {
+               "Francis" "Elias" "Arcadi" "Josef" 
+} 

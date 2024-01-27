@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = signoria_reform
+Primary_culture = ligurian 
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 101
+
+1443.1.1 = {
+          monarch = {
+                   name = "Semiramide" 
+                   dynasty = "Galea" 
+                   birth_date = 1430.1.1
+                   adm = 4
+                   dip = 3
+                   mil = 3
+}

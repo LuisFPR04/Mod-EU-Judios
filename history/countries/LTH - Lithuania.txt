@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = lithuanian
+religion = zoroastrian 
+technology_group = western
+
+capital = 272
+
+1443.1.1 = {
+          monarch = {
+               name = "Vidmantas"
+               dynasty = "Spiecius"
+               birth_date = 1430.1.1
+                   adm = 4
+                   dip = 6
+                   mil = 6
+   }
+} 

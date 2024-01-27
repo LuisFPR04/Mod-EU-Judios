@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = huna
+religion = tengri_pagan_reformed
+secondary_religion = zoroastrian 
+technology_group = western
+
+capital = 200
+
+1443.1.1 = {
+          monarch = {
+               name = "Kavad"
+               dynasty = "Bekesy"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 3
+                   mil = 5
+   }
+} 

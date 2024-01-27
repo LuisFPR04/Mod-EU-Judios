@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 133 111 217}
+
+monarch_names = {
+            "Casio" #3 = 30
+             "Persio" #2 = 10
+             "Anton" = 20
+             "Tita" = 5
+              "Casia" = -20
+}
+
+leader_names = {
+               "Sempronio" "Caton" "Cassio" "Persion" 
+}              

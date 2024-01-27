@@ -1,0 +1,14 @@
+technology_group = western 
+color = {184 185 84 }
+
+monarch_names = {
+            "Galon" #4 = 10
+            "Adamiel" #3 = 10
+            "Mati" = 15
+            "Efraim"  = 15
+              "Paz" = -25
+}
+
+leader_names = {
+               "Galon" "Eshel" "Efraim" "Zeri"
+} 

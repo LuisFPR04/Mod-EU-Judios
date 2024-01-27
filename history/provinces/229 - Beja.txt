@@ -1,0 +1,21 @@
+#229 - Baixo Alentejo
+
+owner = ROM	
+controller = ROM
+add_core = ROM
+culture = roman
+religion = catholic
+capital = "Beja"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = POR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

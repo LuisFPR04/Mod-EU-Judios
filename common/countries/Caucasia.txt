@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 192 233 84}
+
+monarch_names = {
+            "Aimar" #3 = 30
+             "Kai" #2 = 10
+             "Gerard" = 20
+             "Notker" = 5
+              "Rosalinde" = -20
+}
+
+leader_names = {
+               "Egmont" "Conrad" "Manfred" "Friedger" "Friso"
+               "Walter" "Wigbert" "Heimrad" "Wunibald"  

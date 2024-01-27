@@ -1,0 +1,15 @@
+technology_group = western
+
+color = { 250 184 68 }
+
+monarch_names = {
+             "Arvad" 2# = 20
+              "Jesiah" = 10  
+              "Shoshana" = -5
+              "Tzadok" = 4   
+}
+
+leader_names = {
+             "Zamir" "Bartley" "Dovev" "Judah" "Eljah"
+
+}

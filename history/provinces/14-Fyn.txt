@@ -1,0 +1,19 @@
+#Fyn-Langeland
+add_core = RON
+owner = RON
+controller = RON
+culture = prussian
+religion = zoroastrian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = fish
+base_manpower = 4
+capital = "Odense"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

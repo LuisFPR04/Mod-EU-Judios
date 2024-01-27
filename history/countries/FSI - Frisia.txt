@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = frisian
+religion = zoroastrian 
+technology_group = western
+
+capital = 99
+
+1443.1.1 = {
+          monarch = {
+               name = " Ryk"
+               dynasty = "Van Der Lei"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 4
+                   mil = 3
+   }
+} 

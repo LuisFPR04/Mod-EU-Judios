@@ -1,0 +1,42 @@
+#los vandalos
+
+graphical_culture = westerngfx
+
+color = { 55 255 252 }
+
+historical_idea_groups = {
+        offensive_ideas
+        innovativeness_ideas
+        economic_ideas
+}
+
+historical_units = {
+        western_medieval_infantry 
+        chevauchee 
+        western_men_at_arms
+        swiss_landsknechten
+        dutch_maurician
+}
+
+monarch_names = {
+         "van" #10 = 1
+        "juan" #0 = 5
+      "claudia"#0 = -5
+}
+
+leader_names = {
+        "vandales" "ectualdo"
+}
+ship_names = {
+      "juana cuarta" "juana octavia" "juana novena" "gran juana"
+}
+
+army_names = {
+        "horda vandala" "horda tunez" "horda van"
+}
+
+fleet_names = {
+        "horda marina" "horda marina tunez" 
+}
+
+ 

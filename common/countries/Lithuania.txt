@@ -1,0 +1,14 @@
+technology_group = western
+
+color = { 240 240 240 }
+
+monarch_names = {
+             "Valdas" 2# = 20
+              "Speicys" = 10  
+              "Meldeikiene" = -5
+              "Virgilijus" = 4   
+}
+
+leader_names = {
+             "Liudas" "Ciprijonas" "Jurgis" "Balys" "Margiris"
+}

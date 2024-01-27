@@ -1,0 +1,20 @@
+#81 - Hessen
+
+owner = CTI
+controller = CTI
+add_core = CTI
+capital = "Marburg"
+trade_goods = wool
+culture = hessian
+religion = zoroastrian 
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

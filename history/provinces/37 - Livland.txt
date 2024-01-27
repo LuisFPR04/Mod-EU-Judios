@@ -1,0 +1,18 @@
+#273 - Livland
+
+owner = SEM
+controller = SEM
+culture = latvian
+religion = zoroastrian 
+capital = "Fellin"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = SEM
+discovered_by = western
+discovered_by = eastern
+
+

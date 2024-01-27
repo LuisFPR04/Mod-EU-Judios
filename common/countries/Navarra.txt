@@ -1,0 +1,19 @@
+echnology_group = western 
+color = { 147 233 37 }
+
+monarch_names = {
+           "Bazkoare" = 20
+           "Anuntxi" = 15
+           "Bikendi" = 10
+           "Ainhoa" = 5
+           "Dari" = 10
+           "Arkaitz" = -20
+           "Aritz" = -15
+           "Agara" = -5
+           "Asier" = -3
+}
+
+leader_names = { 
+                "Aritz" "Artur" "Aimar" "Dogartzi"
+                "Ainhoa" "Begoña" "Adiran" "Antxon" "Asteri"
+}              

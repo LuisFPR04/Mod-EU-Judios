@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 174 249 160}
+
+monarch_names = {
+            "Ingwald" #3 = 30
+             "Wulfwig" #2 = 10
+             "Behrtwald" = 20
+             "Widuc" = 5
+              "Ceolwynn" = -20
+}
+
+leader_names = {
+               "Ceolswith" "Cuthhelm" "Manfred" "Eohhere" "Aelfwold"
+               "Wilhere" "Litwin" "Elwin" "Ecgbehrt"  

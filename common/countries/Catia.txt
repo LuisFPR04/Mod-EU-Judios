@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 105 44 214}
+
+monarch_names = {
+            "Bruno" #3 = 30
+             "Eric" #2 = 10
+             "Caspar" = 20
+             "Raphael" = 5
+              "Emilia" = -20
+}
+
+leader_names = {
+               "Martin Turnau" "Marcus Wiedenfeld" "Georg Schulman" "Paul Schaefer" 
+               "Malte Herreshoff"   "Axel Scherrer" "Benedict Apfelbaum" "Julian Riegel" 
+}              

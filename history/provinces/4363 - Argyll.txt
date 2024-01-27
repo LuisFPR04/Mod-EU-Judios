@@ -1,0 +1,19 @@
+#4363 - Argyll
+
+owner = ICN
+controller = ICN
+culture = cornish 
+religion = zoroastrian 
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = iron
+base_manpower = 2
+capital = "Loch Awe"
+is_city = yes
+add_core = ICN
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

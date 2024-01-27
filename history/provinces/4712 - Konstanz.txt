@@ -1,0 +1,19 @@
+owner = RIT
+controller = RIT
+capital = "Konstanz"
+is_city = yes
+culture = swabian
+religion = zoroastrian 
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 1
+trade_goods = cloth
+add_core = RIT
+center_of_trade = 1
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

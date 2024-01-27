@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 98 99 112}
+
+monarch_names = {
+            "Sigeric" #3 = 30
+             "Geberic" #2 = 10
+             "Gelimer" = 20
+             "Barimud" = 5
+              "Liuva" = -20
+}
+
+leader_names = {
+               "Lampridius" "Tanais" "Fastida" "Euric" 
+               "Recared"   "Sidimund" "Fredegar" "Osuin" 
+}              

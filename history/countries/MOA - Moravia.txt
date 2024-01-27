@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = czech
+religion = zoroastrian 
+technology_group = western
+
+capital = 257
+
+1443.1.1 = {
+          monarch = {
+               name = "Vyatoslyav"
+               dynasty = "Moravich"
+               birth_date = 1430.1.1
+                   adm = 4
+                   dip = 6
+                   mil = 6
+   }
+} 

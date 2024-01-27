@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = goths
+religion = zoroastrian 
+technology_group = western
+
+capital = 201
+
+1443.1.1 = {
+          monarch = {
+               name = " Agila"
+               dynasty = "Shvelidze"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 4
+                   mil = 3
+   }
+} 

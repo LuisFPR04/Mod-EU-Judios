@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = hessian
+religion = zoroastrian 
+technology_group = western
+
+capital = 1878
+
+1443.1.1 = {
+          monarch = {
+               name = " Gotthard"
+               dynasty = "Weiner"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 4
+                   mil = 3
+   }
+} 

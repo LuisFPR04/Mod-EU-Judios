@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = vandalo
+religion = karaite
+technology_group = western
+capital = 339
+
+1443.1.1 = {
+       monarch = {
+               name = "topo" 
+               dynasty = "topesca" 
+               birth_date = 1430.1.1
+               adm = 5 
+               dip = 2
+               mil = 6
+        }
+}

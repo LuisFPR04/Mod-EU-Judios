@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = military_dictatorship_reform
+Primary_culture = venetian
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 112
+
+1443.1.1 = {
+          monarch = {
+                   name = "Dante" 
+                   dynasty = "De Fabio" 
+                   birth_date = 1430.1.1
+                   adm = 5
+                   dip = 4
+                   mil = 4
+}

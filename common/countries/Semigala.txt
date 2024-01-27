@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 54 226 70}
+
+monarch_names = {
+            "Biera" #3 = 30
+             "Mihkkel" #2 = 10
+             "Eles" = 20
+             "Nihkolávo" = 5
+              "Gunvor" = -20
+}
+
+leader_names = {
+               "Nunna" "Guivi" "Gealbu" "Migot" 
+}              

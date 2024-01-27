@@ -1,0 +1,19 @@
+# 183 Île-de-France - Principal cities: Paris
+
+owner = FRK
+controller = FRK
+capital = "Paris"
+is_city = yes
+culture = cosmopolitan_french
+religion = zoroastrian 
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = paper
+base_manpower = 7
+add_core = FRK
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

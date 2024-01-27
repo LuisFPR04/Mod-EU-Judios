@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 115 105 62}
+
+monarch_names = {
+            "Atila" #3 = 30
+             "Elak" #2 = 10
+             "Ernak" = 20
+             "Dengizik" = 5
+              "Altera" = -20
+}
+
+leader_names = {
+               "Ernek" "Dangizak" "Atelius" "Ilek" 
+}              

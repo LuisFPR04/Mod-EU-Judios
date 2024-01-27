@@ -1,0 +1,21 @@
+# 99 Gelre - Principal cities: Arnhem & Nijmegen
+
+owner = FSI
+controller = FSI 
+capital = "Arnhem"
+is_city = yes
+culture = frisian
+religion = zoroastrian 
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = livestock
+base_manpower = 3
+add_core = FSI
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

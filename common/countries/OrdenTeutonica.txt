@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 151 196 188}
+
+monarch_names = {
+            "Janik" #3 = 30
+            "Phillipp" #2 = 10 
+             "Fiete" = 20
+             "Erik" = 5
+              "Leonore" = -20
+}
+
+leader_names = {
+                "Manuel" "Marcus" "Laurenz" "Flori" "Vinzenz" "Milo"
+}              

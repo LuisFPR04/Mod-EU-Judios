@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 197 101 46}
+
+monarch_names = {
+            "Sico" #3 = 30
+             "Gentile" #2 = 10
+             "Domenico" = 20
+             "Sosteneo" = 5
+              "Adria" = -20
+}
+
+leader_names = {
+               "Agape" "Genesio" "Zenaide" "Gioacchino" "Alfredo" "Aristotele" "Davoli" "Neri"
+}   

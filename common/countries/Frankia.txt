@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 25 70 208}
+
+monarch_names = {
+            "Jean" #3 = 30
+             "Lau" #2 = 10
+             "Bernanrd" = 20
+             "Raphael" = 5
+              "Anne-Sophie" = -20
+}
+
+leader_names = {
+               "Pierre Jacquet" "Eric Maret" "Boniface" "Romeo" 
+}              

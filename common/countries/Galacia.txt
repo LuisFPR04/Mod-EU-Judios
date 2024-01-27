@@ -1,0 +1,12 @@
+technology_group = western 
+color = {204 112 2  }
+
+monarch_names = {
+            "Talarico" #3 = 25
+            "Teodorico" #2 = 10
+              "Pía" = -10
+}
+
+leader_names = {
+               "Almenegildo" "Talarico" "Talenel" 
+} 

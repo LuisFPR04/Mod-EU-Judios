@@ -1,0 +1,24 @@
+# Narbonne - Principal cities: Narbonne
+
+owner = HNO
+controller = HNO
+capital = "Narbonne"
+is_city = yes
+culture = huna
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 3
+add_core = HNO
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

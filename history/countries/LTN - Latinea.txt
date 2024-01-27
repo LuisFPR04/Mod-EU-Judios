@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = umbrian 
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 118
+
+1443.1.1 = {
+          monarch = {
+                   name = "Baldomero" 
+                   dynasty = "Di Leo" 
+                   birth_date = 1430.1.1
+                   adm = 4
+                   dip = 4
+                   mil = 4
+}

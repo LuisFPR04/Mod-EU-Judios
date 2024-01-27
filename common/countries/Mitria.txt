@@ -1,0 +1,13 @@
+technology_group = western 
+color = { 215 173 238 }
+
+monarch_names = {
+            "Aristotelis" #3 = 15
+            "Marios" #2 = 15
+            "Lavrentinos" = 10
+              "Evangelia" = -20
+}
+
+leader_names = {
+               "Apollon" "Raphail" "Antonios"
+} 

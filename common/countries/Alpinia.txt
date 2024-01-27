@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 255 96 123}
+
+monarch_names = {
+            "Palatino" #3 = 30
+             "Venanzio" #2 = 10
+             "Olindo" = 20
+             "Nico" = 5
+              "Astrid" = -20
+}
+
+leader_names = {
+               "Albin" " Angelo" "Vaccaro" "Nereo" "Fabrizio" "Albino" "Antonello" "Virginio"
+} 

@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 175 142 54}
+
+monarch_names = {
+            "Laanke" #3 = 30
+             "Ebbing" #2 = 10
+             "Elsert" = 20
+             "Aalke" = 5
+              "Elgertsje" = -20
+}
+
+leader_names = {
+               "Easse Kok" "Farduw Van Der Wey" "Aling De Wit" "Jehannes Steenstra" 
+               "Feuke Van Tuinen"   "Jukke Van Der Zwaag" "Oneke Akkerman" "Dibbet Nijholt" 
+}              

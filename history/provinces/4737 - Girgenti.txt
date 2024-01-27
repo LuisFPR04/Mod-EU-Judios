@@ -1,0 +1,24 @@
+# - Syracusa
+
+owner = MGJ
+controller = MGJ
+culture = sicilian 
+religion = samaritan
+hre = no 
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Girgenti"
+is_city = yes
+add_core = MGJ
+add_core = NAP
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

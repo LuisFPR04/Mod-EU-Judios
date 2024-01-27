@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+Primary_culture = schlesian
+religion = zoroastrian 
+technology_group = western
+
+capital = 2966
+
+1443.1.1 = {
+          monarch = {
+               name = "Astolfo"
+               dynasty = "Von Sif"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 4
+                   mil = 4
+   }
+} 

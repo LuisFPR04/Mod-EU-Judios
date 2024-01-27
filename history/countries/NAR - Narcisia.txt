@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+Primary_culture = bavarian
+religion = zoroastrian 
+technology_group = western
+
+capital = 64
+
+1443.1.1 = {
+          monarch = {
+               name = "Siegmar"
+               dynasty = "Romhild"
+               birth_date = 1430.1.1
+                   adm = 4
+                   dip = 3
+                   mil = 3
+   }
+} 

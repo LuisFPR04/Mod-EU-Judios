@@ -1,0 +1,24 @@
+#205 - Savoie
+
+owner = GTC
+controller = GTC
+culture = goths
+religion = zoroastrian
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+capital = "Chambéry"
+is_city = yes	
+add_core = GTC
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 39 167 160}
+
+monarch_names = {
+            "Petrok" #3 = 30
+             "Talan" #2 = 10
+             "Loucum" = 20
+             "Brithael" = 5
+              "Annik" = -20
+}
+
+leader_names = {
+               "Arthek" "Dofagan" "Jacka" "Mihal"
+               "Iarnwallon"        "Inisian"        "Conmonoc"     "Conredeu"
+}              

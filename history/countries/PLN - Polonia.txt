@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = polish
+religion = zoroastrian 
+technology_group = western
+
+capital = 256
+
+1443.1.1 = {
+          monarch = {
+               name = "Sigismundo"
+               dynasty = "Piast"
+               birth_date = 1430.1.1
+                   adm = 2
+                   dip = 1
+                   mil = 2
+   }
+} 

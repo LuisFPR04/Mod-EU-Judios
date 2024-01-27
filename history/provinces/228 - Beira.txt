@@ -1,0 +1,24 @@
+#228 - Beira
+
+owner = HNO
+controller = HNO
+culture = roman
+religion = zoroastrian 
+capital = "Viseu"
+trade_goods = wine
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = HNO
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+#fort_15th = yes

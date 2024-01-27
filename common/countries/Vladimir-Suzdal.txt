@@ -1,0 +1,15 @@
+graphical_culture = easterngfx
+
+color = { 64 213 206 }
+
+monarch_names = {
+             "Valeryevich" 2# = 20
+              "Rodionovich" = 10  
+              "Artemievna" = -5
+              "Assonov" = 4   
+}
+
+leader_names = {
+             "Entsky Larion" "Osip Aleskeevich" "Alesnarovich" "Yushkov Erik" "Rozovsky Pavel"
+
+}

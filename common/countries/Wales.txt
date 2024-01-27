@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 165 238 44}
+
+monarch_names = {
+            "Llwyd" #3 = 30
+             "Pawl" #2 = 10
+             "Merlin" = 20
+             "Saith" = 5
+              "Eurwen" = -20
+}
+
+leader_names = {
+               "Alex Thomas" "Joe Freeman" "Lucas Willis" "Tyler Alexander" 
+}              

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = basque
+religion = zoroastrian 
+technology_group = western
+
+capital = 209
+
+1443.1.1 = {
+          monarch = {
+               name = "Anuntxi"
+               dynasty = "Garces"
+               birth_date = 1430.1.1
+                   adm = 3
+                   dip = 3
+                   mil = 3
+   }
+} 

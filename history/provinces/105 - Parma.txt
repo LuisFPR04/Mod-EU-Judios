@@ -1,0 +1,20 @@
+#105 - Parma
+
+owner = TCR
+controller = TCR
+culture = romagnan 
+religion = zoroastrian 
+hre = no
+base_tax = 6 
+base_production = 5 
+trade_goods = livestock
+base_manpower = 4 
+capital = "Parma" 
+is_city = yes	# Estimated 
+add_core = TCR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

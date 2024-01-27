@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 156 81 236}
+
+monarch_names = {
+            "Lennox" #3 = 30
+             "Lochlan" #2 = 10
+             "Matthew" = 20
+             "Dominic" = 5
+              "Neve" = -20
+               "Evelyn" = -30
+}
+
+leader_names = {
+               "Abel Murray" "Tyler Blair" "Nathan Christie" "Zachary McCormack" 
+}              

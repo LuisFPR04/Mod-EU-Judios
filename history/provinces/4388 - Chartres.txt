@@ -1,0 +1,20 @@
+# 4388 Chartres
+
+owner = FRK
+controller = FRK
+capital = "Chartres"
+is_city = yes
+culture = cosmopolitan_french
+religion = zoroastrian 
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 6
+fort_15th = yes
+add_core = FRK
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,15 @@
+technology_group = western 
+color = {29 158 227}
+
+monarch_names = {
+            "Ole" #3 = 30
+             "Magnar" #2 = 10
+             "Reidar" = 20
+             "Sven" = 5
+              "Ruth" = -20
+}
+
+leader_names = {
+               "Sjur Wermager" "Trygve Mattsen" "Sigve Vignes" "Thore Lorenzen" "Rolf Overby"
+               "Carl Sundahl" "Endre Stordalen" "Gunnar Flatten" "Arnstein Prestegard"  
+}              

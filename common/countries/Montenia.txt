@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 76 199 245}
+
+monarch_names = {
+            "Leopoldo" #3 = 30
+             "Uranio" #2 = 10
+             "Aladino" = 20
+             "Edgardo" = 5
+              "Annunziata" = -20
+}
+
+leader_names = {
+               "Amore" "Manilio" "Tazio" "Crespignano" "Asterio" "Vinfrido" "Pancario" "Gerino"
+}              

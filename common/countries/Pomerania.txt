@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 56 175 148}
+
+monarch_names = {
+            "Godric" #3 = 30
+             "Beorward" #2 = 10
+             "Eansige" = 20
+             "Voss" = 5
+              "Cyneburh" = -20
+}
+
+leader_names = {
+               "Helpric" "Carver" "Sighard" "Norbert" "Norbert"
+               "Norbert" "Heahmund" "Wraecwulf" "Randal"  
+}              

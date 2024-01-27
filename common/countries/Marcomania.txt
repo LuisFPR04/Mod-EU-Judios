@@ -1,0 +1,15 @@
+technology_group = western 
+color = {196 67 181}
+
+monarch_names = {
+            "Adolf" #3 = 30
+             "Dankmar" #2 = 10
+             "Karl" = 20
+             "Korbinian" = 5
+              "Frauke" = -20
+}
+
+leader_names = {
+               "Helmer" "Helmer" "Lubin" "Alwin" "Altmann"
+               "Arnulf" "Bernger" "Godfrey" "Farald"  
+}              

@@ -1,0 +1,24 @@
+#77 - Heidelberg
+
+capital = "Heidelberg"
+culture = hessian
+religion = zoroastrian 
+trade_goods = wine
+owner = HRA
+base_tax = 5
+base_production = 4
+base_manpower = 4
+fort_15th = yes
+is_city = yes
+controller = HRA
+add_core = HRA
+hre = no
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

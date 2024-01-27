@@ -1,0 +1,17 @@
+#judios en italia !!!
+
+technology_group = western
+
+color = { 45 91 236 }
+
+monarch_names = {
+             "Judas" 2# = 20
+              "Pedro" = 10  
+              "rosana" = -5
+              "leonidas" = 4   
+}
+
+leader_names = {
+             "leontios" "pericles" "juan" "enrique" "alexander"
+
+}

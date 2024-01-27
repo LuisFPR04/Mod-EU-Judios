@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = signoria_reform
+Primary_culture = sicilian
+religion = samaritan 
+technology_group = western 
+capital = 123
+
+1443.1.1 = {
+          monarch = {
+                   name = "Matias" 
+                   dynasty = "Abrahamic" 
+                   birth_date = 1430.1.1
+                   adm = 4
+                   dip = 2
+                   mil = 3
+   }
+}

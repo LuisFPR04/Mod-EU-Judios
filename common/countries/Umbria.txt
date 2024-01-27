@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 247 170 131}
+
+monarch_names = {
+            "Giove" #3 = 30
+             "Secondo" #2 = 10
+             "Archimede" = 20
+             "Nico" = 5
+              "Ambra" = -20
+}
+
+leader_names = {
+               "Ataleo" " Angelo" "Dante" "Clodomiro" "Nicodemo" "Albino" "Antonello" "Virginio"
+} 

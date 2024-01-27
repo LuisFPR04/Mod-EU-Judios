@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 192 218 79 }
+
+monarch_names = {
+            "Stefanos" #3 = 10
+            "Serafeim" #2 = 10
+            "Orien" = 5
+            "Fritze" = 15
+              "Eleonora" = -5
+              "Liran" = -5
+}
+
+leader_names = {
+               "Mathaios Ballas" "Aristidis Sarkelis" "Niran Aharon" "Yuly ben Rave"
+} 

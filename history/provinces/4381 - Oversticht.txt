@@ -1,0 +1,20 @@
+# 4381 - Oversticht
+
+owner = FSI
+controller = FSI
+capital = "Zwolle"
+is_city = yes
+culture = frisian
+religion = zoroastrian
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+add_core = FSI
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

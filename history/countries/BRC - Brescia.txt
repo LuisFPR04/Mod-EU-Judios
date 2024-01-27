@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = signoria_reform
+Primary_culture = romagnan 
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 107
+
+1443.1.1 = {
+          monarch = {
+                   name = "Pantaleone" 
+                   dynasty = "De Nigris" 
+                   birth_date = 1430.1.1
+                   adm = 5
+                   dip = 4
+                   mil = 4
+}

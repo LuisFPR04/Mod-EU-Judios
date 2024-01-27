@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = signoria_reform
+Primary_culture = umbrian 
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 4731 
+
+1443.1.1 = {
+          monarch = {
+                   name = "Almerigo" 
+                   dynasty = "Caponigro" 
+                   birth_date = 1430.1.1
+                   adm = 5
+                   dip = 5
+                   mil = 4
+}

@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 254 56 56}
+
+monarch_names = {
+            "Simeone" #3 = 30
+             "Simeone" #2 = 10
+             "Liberato" = 20
+             "Mansueto" = 5
+              "Mia" = -20
+}
+
+leader_names = {
+               "Colombo" "Basileo" "Tazio" "Nereo" "Sandro" "Vinfrido" "Ataleo" "Benvenuto"
+}  

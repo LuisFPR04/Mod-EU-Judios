@@ -1,0 +1,15 @@
+technology_group = western
+
+color = { 242 175 73 }
+
+monarch_names = {
+             "Biejan" 2# = 20
+              "Bancu" = 10  
+              "Susanna" = -5
+              "Jonas" = 4   
+}
+
+leader_names = {
+             "Hugo" "Eret" "Ahkejuoksa" "Juŋkil" "Andde"
+
+}

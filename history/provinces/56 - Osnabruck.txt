@@ -1,0 +1,24 @@
+#56 - Osnabrück
+
+owner = CAU
+controller = CAU
+culture = hannoverian
+religion = zoroastrian 
+capital = "Osnabrück"
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = CAU
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

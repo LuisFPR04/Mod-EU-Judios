@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 54 142 175}
+
+monarch_names = {
+            "Respa" #3 = 30
+             "Ariaric" #2 = 10
+             "Theudis" = 20
+             "Cniva" = 5
+              "Brunhilda" = -20
+}
+
+leader_names = {
+               "Sunnia" "Niketas" "Dubius" "Abundi" "Arnau"
+               "Flaccitheus" "Achila" "Blai" "Brandan"  
+}              

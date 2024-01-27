@@ -1,0 +1,14 @@
+technology_group = western 
+color = { 98 81 72}
+
+monarch_names = {
+            "Diocleziano" #3 = 30
+             "Settimo" #2 = 10
+             "Stanislao" = 20
+             "Delfino" = 5
+              "Estella" = -20
+}
+
+leader_names = {
+               "Fermiano" "Plutarco" "Rodrigo" "Graciliano" "Lucio" "Vinfrido" "Ambrosiano" "Benvenuto"
+}  

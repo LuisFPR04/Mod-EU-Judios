@@ -1,0 +1,15 @@
+technology_group = western 
+color = { 193 251 248}
+
+monarch_names = {
+            "Kiriltugh" #3 = 30
+             "Borachu" #2 = 10
+             "Shiraghul" = 20
+             "Gal" = 5
+              "Yesuntei" = -20
+}
+
+leader_names = {
+               "Khubilai" "Huslen" "Yargai" "Yalavech" 
+               "Bujeg"   "Sain" "Enebish" "Ganbold" 
+}              

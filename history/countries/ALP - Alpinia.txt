@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+Primary_culture = lombard
+religion = zoroastrian 
+government_rank = 1
+technology_group = western 
+capital = 104 
+
+1443.1.1 = {
+          monarch = {
+                   name = "Antonello" 
+                   dynasty = "Di Maria" 
+                   birth_date = 1430.1.1
+                   adm = 4
+                   dip = 2
+                   mil = 4
+}
